@@ -69,4 +69,5 @@ DHT: Para leer los datos de temperatura y humedad del sensor DHT11.
 Funcionamiento:
 
 En el setup(), se inicializan la pantalla LCD y el sensor DHT11.
+
 En el loop(), se actualizan los valores de temperatura y humedad cada segundo y se muestran en la pantalla LCD.
