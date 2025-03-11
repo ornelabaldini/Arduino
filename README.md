@@ -23,7 +23,7 @@ VCC → 5V (Arduino)
 GND → GND (Arduino)
 SDA → A4 (Arduino Uno)
 SCL → A5 (Arduino Uno)
-Código
+
 Código necesario para medir la temperatura y la humedad con el sensor DHT11 y mostrar los resultados en una pantalla LCD:
 
 #include <LiquidCrystal_I2C.h>
